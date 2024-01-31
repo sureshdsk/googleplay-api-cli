@@ -21,3 +21,8 @@ python main.py get-app PACKAGE_NAME
 # Download APK
 python main.py download com.whatsapp.w4b
 ```
+
+# Google account setup
+- Enable 2 Factor Authentication
+- Create [App specific password](https://support.google.com/accounts/answer/185833?hl=en) for your google account
+- Use with a real device/emulator and install any app from playstore at least once and accept playstore terms and conditions
